@@ -3,7 +3,7 @@
 meetOpener jest programem mającym otwierać google meet o odpowiednich godzinach.
 możesz pobrać go [tutaj](https://github.com/MHanak-the-psychopath/meetOpener/raw/main/meetOpener.jar)
 
-## wersje
+## wersje:
 
 ### V0.4
 * dodaje kompatybilność z mac os
