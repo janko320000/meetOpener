@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 buttons:
       zip_hide: false
-      github_hide: true
+      github_hide: false
