@@ -1,4 +1,9 @@
 theme: jekyll-theme-cayman
 buttons:
+      zip_url: https://github.com/MHanak-the-psychopath/meetOpener/raw/main/meetOpener.jar
+      zip_title: pobierz meetOpener
       zip_hide: false
-      github_hide: false
+      tar_url: https://github.com/MHanak-the-psychopath/meetOpener/raw/main/meetOpener.jar
+      tar_title: pobierz meetOpener
+      tar_hide: true
+      github_hide: true
