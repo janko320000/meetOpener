@@ -9,11 +9,14 @@ możesz pobrać go [tutaj](https://github.com/MHanak-the-psychopath/meetOpener/r
 ### V0.4
 * dodaje kompatybilność z mac os
 * dodaje możliwość wylączenia sygnału dźwiękowego
+
 ### V0.3
 * dodaj esygnał dźwiękowy
+
 ### V0.2
 * dodaje możliwość wyłączenia teligji
 * poprawia czaw lekcji WF
 * poprawia link na WF
+
 ### V0.1
 * program otwiera meeta o odpowiednich godzinach
