@@ -10,7 +10,7 @@ możesz pobrać go [tutaj](https://github.com/MHanak-the-psychopath/meetOpener/r
 * dodaje możliwość wylączenia sygnału dźwiękowego
 
 ### V0.3
-* dodaj esygnał dźwiękowy
+* dodaje sygnał dźwiękowy
 
 ### V0.2
 * dodaje możliwość wyłączenia teligji
@@ -18,4 +18,5 @@ możesz pobrać go [tutaj](https://github.com/MHanak-the-psychopath/meetOpener/r
 * poprawia link na WF
 
 ### V0.1
+* pierwsza wersja programu
 * program otwiera meeta o odpowiednich godzinach
